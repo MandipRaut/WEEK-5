@@ -1,0 +1,45 @@
+body{
+    background-color: rgba(7, 7, 71, 0.644);
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url('picture.png');
+    background-repeat: no-repeat;
+    background-size: 46% 106%;
+    background-position: right;
+}
+.body{
+    margin-right: 43%;
+}
+p{
+    color: white;
+    margin-right: 150px;
+    margin-left: 50px;
+}
+.sell{
+    font-size: 5vw; 
+    font-weight: bold;
+}
+.grow{
+    font-size: 25px;
+    margin-bottom: 100px;
+    position: relative; top: -45px;
+}
+.sep{
+    position: relative; top: -45px;
+    font-size: large;
+}
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 50px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-right: 150px;
+    margin-left: 50px;
+    position: relative; top: -15px;
+  }
